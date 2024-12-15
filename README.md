@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript when interacting with the DOM.  The bug is a simple typo in the getElementById function, which results in a TypeError when attempting to access the innerHTML of a null element. The solution corrects the typo and provides the proper way to access and manipulate DOM elements.
